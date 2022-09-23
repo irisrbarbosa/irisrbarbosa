@@ -1,7 +1,7 @@
 Olá 👋🏻
 • 📱 Atualmente programo pelo celular, pois meu computador quebrou 💻
-• 👩🏼‍💻 HTML | CSS | JavaScript
-• 📖 Faço Sistemas Para Internet e busco um Estágio em Desenvolvimento de Sistemas 👩🏼‍💻
+• 👩🏼‍💻 HTML | CSS | JavaScript ...
+• 📖 Faço Sistemas Para Internet 👩🏼‍💻
 
 <div> 
    <a href="https://github.com/tamirisrbarbosa"> 
