@@ -1,6 +1,6 @@
 Olá 👋🏻
 • 👩🏼‍💻 HTML | CSS | JavaScript ...
-• 📖 Faço Sistemas Para Internet 👩🏼‍💻
+• 📖 👩🏼‍💻
 
 <div> 
    <a href="https://github.com/irisrbarbosa"> 
